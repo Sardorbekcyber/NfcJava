@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NfcJava</string>
+    <string name="arrow_image">Arrow Image</string>
+    <string name="alarms_destination_label">Jke</string>
+    <string name="schedule_destination_label">jkejke</string>
+    <string name="timer_destination_label">jkeJk</string>
+    <string name="stopwatch_destination_label">Juja</string>
+</resources>
